@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<¡--ESTILO--!>
+body{
+backgoudColor:gray,margen:20px,{
+h1{color:blue,}
 
     <body>
         <¡--MENU---!>
