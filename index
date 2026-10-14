@@ -9,7 +9,12 @@
 <¡--ESTILO--!>
 
     <body>
-        <¡--MENU---!>
+        <nav>
+            <a href="#"Inicio</a>
+            < a href="#">cartelera</a>
+            <a href="#">Horario</a>
+            <a href="#Contacto</a>
+
             <h1>Cine Esterella</h1>
             <p>La cartelera de esta esmana en el cine de barrio.</p>
             <h2>En cartel</h2>
